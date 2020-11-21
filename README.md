@@ -1,0 +1,1 @@
+# Input-Purchase-Price-pp-sale-price-sp-find-out-profit-or-loss-with-amount.
